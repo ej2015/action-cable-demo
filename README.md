@@ -1,24 +1,5 @@
-# README
+This is a demo app that shows:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. broadcasting from console to browser based on [this guide](https://medium.com/rubyinside/action-cable-hello-world-with-rails-5-1-efc475b0208b)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2. user appearance based on the official Rails guide
