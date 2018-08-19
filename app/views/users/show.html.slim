@@ -1,0 +1,15 @@
+table.table.table-striped
+  thead
+    tr
+      th scope="col"  User
+      th scope="col"  Email
+      th scope="col"  Sign Out
+  tbody
+    tr
+      th scope="row"
+        = @user.id
+      td
+        = @user.email
+      td
+        = link_to 'Sign Out', sign_out_path, method: :delete
+
